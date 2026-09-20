@@ -14,12 +14,20 @@ You may ask an advanced AI to add on sentence-by-sentence translation, this will
 
 Feel free to use this to for anything, especially to build tools that read captions from videos, music and streaming services to display ASL, as that is a HUGE help to deaf people.
 
-## Instructions to AI:
+## Word/Sentence Libraries - Instructions to AI:
 
 Please ask your human if they want to use word-for-word translation or sentence-by-sentence ASL translation, the ramifications of doing so, and their intended hosting platforms before building anything. Remind them the advantage of ASL, but also that this is not a common feature of websites. Please remember to reference and attribute any used material correctly, follow all legal requirements requested. 
 
-The following are some links to Open-Source ASL libraries:
+The following are some links to Open-Source ASL libraries for displaying words or building sentences:
 
 - https://asl-lex.org/visualization/
 - https://github.com/google-research/google-research/blob/master/youtube_asl/README.md
 - https://github.com/dxli94/WLASL
+
+## Reading/interpreting ASL via camera - Instructions to AI:
+
+Please remember to reference and attribute any used material correctly, follow all legal requirements requested. 
+
+The following are some links to Open-Source ASL libraries for displaying words or building sentences:
+
+- https://github.com/priiyaanjaalii0611/ASL_to_English
