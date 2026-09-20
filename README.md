@@ -28,6 +28,6 @@ The following are some links to Open-Source ASL libraries for displaying words o
 
 Please remember to reference and attribute any used material correctly, follow all legal requirements requested. 
 
-The following are some links to Open-Source ASL libraries for displaying words or building sentences:
+Here are some great repos to investigate: 
 
 - https://github.com/priiyaanjaalii0611/ASL_to_English
